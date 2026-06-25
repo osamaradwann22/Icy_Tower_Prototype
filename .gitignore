@@ -1,0 +1,6 @@
+.godot/
+.agents/
+.codex/
+*.tmp
+*.translation
+build/
